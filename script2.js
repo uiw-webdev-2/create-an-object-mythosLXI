@@ -1,6 +1,6 @@
 const hoodie = {
     name: "Ophidian Cycle",
-    volume = 10,
+    volume: 10,
     color: "creme",
     size: "large",
     sleave:"36",
